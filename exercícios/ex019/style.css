@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+body{
+     background-color:#c5d8cf;
+     color:#002333 ;
+}
+h1{
+    text-decoration: underline;
+}
+#principal{
+    text-align: center;
+    background-color: #159A9C;
+    text-decoration: none;
+    font: italic 3em Arial, Verdana;
+}
